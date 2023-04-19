@@ -1,0 +1,12 @@
+{
+  "name": "parcel-transformer-fnt",
+  "version": "1.0.0",
+  "description": "Transforms bitmap font files",
+  "engines": {
+    "parcel": "2.x"
+  },
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Jesse Himmelstein <jesse@heavenstone.net>",
+  "license": "MIT"
+}
